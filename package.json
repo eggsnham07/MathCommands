@@ -8,7 +8,7 @@
     "multiply": "./bin/multiply.js",
     "subtract": "./bin/subtract.js",
     "divide": "./bin/divide.js",
-    "solve": "./bin/graph.js"
+    "solve": "./bin/solve.js"
   },
   "scripts": {
     "test": "test"
