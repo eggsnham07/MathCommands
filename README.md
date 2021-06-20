@@ -8,8 +8,8 @@ Current commands:
 
 output:
 ```console
-> add 5 8
-13
+> add 122 22
+144
 ```
 
 `subtract`
