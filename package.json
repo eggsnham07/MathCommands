@@ -6,7 +6,6 @@
   "bin": {
     "add": "./bin/add.js",
     "multiply": "./bin/multiply.js",
-    "test": "./bin/test.js",
     "subtract": "./bin/subtract.js",
     "divide": "./bin/divide.js",
     "solve": "./bin/graph.js"
