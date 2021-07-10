@@ -1,6 +1,4 @@
-# Cli Development
-
-Currently this NPM package is a math one package
+# Math Commands npm package
 
 Current commands:
 
