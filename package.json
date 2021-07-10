@@ -1,7 +1,7 @@
 {
-  "name": "cli-development",
-  "version": "0.0.12",
-  "description": "",
+  "name": "mathcommands",
+  "version": "0.0.1",
+  "description": "Terminal Math Commands",
   "main": "index.js",
   "bin": {
     "add": "./bin/add.js",
@@ -10,12 +10,10 @@
     "divide": "./bin/divide.js",
     "solve": "./bin/solve.js"
   },
-  "scripts": {
-    "test": "test"
-  },
   "keywords": [
     "cli",
-    "eggsnham07"
+    "@eggsnham07",
+    "math"
   ],
   "author": "eggsnham07",
   "license": "ISC"
