@@ -3,6 +3,9 @@
     "version": "0.0.7 Dev",
     "description": "CLI Math commands",
     "main": "index.js",
+    "scripts": {
+        "test": "tsc && node bin/mathcommands.js --debug --add \"12 24\" --help --version"
+    },
     "repository": "git@github.com:eggsnham07/MathCommands.git",
     "bin": {
         "math-cli": "./bin/mathcommands.js"
@@ -17,5 +20,8 @@
     "private": false,
     "dependencies": {
         "commander": "^8.3.0"
+    },
+    "devDependencies": {
+        "@types/node": "^16.11.6"
     }
 }
